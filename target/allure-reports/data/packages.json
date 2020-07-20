@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ru.bellintegrator.Tests",
+    "children" : [ {
+      "name" : "googleFindLinkWiki",
+      "uid" : "208fa3d2da9b93e6",
+      "parentUid" : "b2133769c410378c1bca1f8d280b7976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595259234712,
+        "stop" : 1595259243901,
+        "duration" : 9189
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "googleFindResCount",
+      "uid" : "eba33bfe21156fde",
+      "parentUid" : "b2133769c410378c1bca1f8d280b7976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595259244004,
+        "stop" : 1595259252114,
+        "duration" : 8110
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ru.bellintegrator.Tests"
+  } ]
+}

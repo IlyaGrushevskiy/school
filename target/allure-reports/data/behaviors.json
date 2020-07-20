@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "googleFindLinkWiki()",
+    "uid" : "208fa3d2da9b93e6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595259234712,
+      "stop" : 1595259243901,
+      "duration" : 9189
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "googleFindResCount()",
+    "uid" : "eba33bfe21156fde",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595259244004,
+      "stop" : 1595259252114,
+      "duration" : 8110
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
