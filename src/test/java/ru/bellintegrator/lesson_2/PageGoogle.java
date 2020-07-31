@@ -32,5 +32,4 @@ public class PageGoogle {
         fieldSearch.sendKeys(findText);
         fieldSearch.sendKeys(Keys.ENTER);
     }
-
 }
