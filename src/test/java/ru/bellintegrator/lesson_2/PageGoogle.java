@@ -1,6 +1,5 @@
-package ru.bellintegrator;
+package ru.bellintegrator.lesson_2;
 
-import com.sun.tools.javac.comp.Enter;
 import net.bytebuddy.asm.Advice;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

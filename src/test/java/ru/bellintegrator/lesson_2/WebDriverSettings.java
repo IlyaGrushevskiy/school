@@ -1,4 +1,4 @@
-package ru.bellintegrator;
+package ru.bellintegrator.lesson_2;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
