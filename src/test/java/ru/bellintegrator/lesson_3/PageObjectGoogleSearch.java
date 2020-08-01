@@ -9,6 +9,8 @@ import java.util.Map;
 
 public class PageObjectGoogleSearch {
 
+
+
     private String selectorSearchItems = "//div[@class='g']";
     private String selectorResultURL = ".//div[@class='r']/a[@href]";
     private String selectorResultNamePage = ".//div[@class='r']/a[@href]";
@@ -40,7 +42,6 @@ public class PageObjectGoogleSearch {
                     "DISCRIPTION", result.findElement(By.xpath(selectorResultDiscription)).getText()
             ));
         }
-
         return collectResult;
     }
 }
