@@ -2,6 +2,7 @@ package ru.bellintegrator.lesson_2;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import ru.bellintegrator.settings.WebDriverSettings;
 
 public class Tests extends WebDriverSettings {
 

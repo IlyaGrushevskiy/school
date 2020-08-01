@@ -1,4 +1,4 @@
-package ru.bellintegrator.lesson_2;
+package ru.bellintegrator.settings;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 public class WebDriverSettings {
 
-    WebDriver chromeDriver;
+    public WebDriver chromeDriver;
 
     @BeforeEach
     public void installSettings(){
